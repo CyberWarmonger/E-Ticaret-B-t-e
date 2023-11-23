@@ -51,7 +51,7 @@
             <div class="col-md-12 mb-3 d-flex justify-content-center">
              <ul class="nav nav-tabs">
                 <li class="nav-item">
-                  <a class="nav-link " aria-current="page" href="expenses-report.php">INCOME</a>
+                  <a class="nav-link " aria-current="page" href="income-report.php">INCOME</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link active " aria-current="page" href="expenses-report.php">EXPENSES</a>
@@ -108,8 +108,8 @@
         }
        ?>],
         backgroundColor: [
-        'rgba(255, 99, 132, 0.2)',
-        'rgba(54, 162, 235, 0.2)',
+        'red',
+        '#FFA500',
         'rgba(255, 206, 86, 0.2)',
         'rgba(75, 192, 192, 0.2)',
         ],
